@@ -32,9 +32,6 @@
     "url": "https://github.com/tobilg/facebook-events-by-location.git"
   },
   "homepage": "https://github.com/tobilg/facebook-events-by-location",
-  "engines": {
-    "node": ">=0.10.0"
-  },
   "license": "MIT",
   "devDependencies": {
     "publish-please": "^2.2.0"
